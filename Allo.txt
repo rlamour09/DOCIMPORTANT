@@ -1,9 +1,34 @@
+********  Universite du Qebec en outaouais !!! ********
+
+Automne 2019 hiver 2020
+
 Structure de lalettre Paragraphe1:
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?Structure de lalettre Paragraphe1:
 Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
 (annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
 Faitesdesliensentrecequevoussavezdel’entrepriseetvotreintérêtpourelle:saphilosophie,lanaturedesservices,
-vos valeurs et equevousavezàoffrir.
 
+Structure de lalettre Paragraphe2:
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
+vos valeurs et equevousavezàoffrir.Structure de lalettre Paragraphe1:
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
+
+Structure de lalettre Paragraphe3:
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
+
+Conclusion 
+
+    Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
+    Créer un compte Github
+    Cloner le projet test (https://github.com/UQO-2019-INF1583/TDGit.git) sur votre poste de travail
+    Effectuez les opérations suivantes :
+    Ajouter un fichier au projet et pousser votre modification
+    Créer une nouvelle branche et faire une modification au fichier README.md dans cette nouvelle branche
+   
 Cette lett est une guide 
 
 
