@@ -1,8 +1,7 @@
 package test4;
 
 /**
- *
- * @author lapec
+ *@author Raymond Lamour //changement
  */
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
+ //C'est un probleme de change de coin en java (Changement) 
 public class CoinChangeProblem {
     private int[] tabpoidsdispo;
     private int poidsvaleur;
@@ -188,3 +187,4 @@ public class CoinChangeProblem {
     }
 
 }
+ //Pied de la page juste pour voir les chamgements (Raymond Lamour)
