@@ -20,6 +20,10 @@ Structure de lalettre Paragraphe3:
 Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
 (annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
 
+Structure de lalettre Paragraphe4:
+    Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
+    Créer un compte Github
+
 Conclusion 
 
     Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
