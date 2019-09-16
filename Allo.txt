@@ -21,9 +21,15 @@ Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
 (annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
 
 Structure de lalettre Paragraphe4:
-    Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
-    Créer un compte Github
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
 
+Structure de lalettre Paragraphe5:
+Ouverture:mentionnezleposteconvoité,oùvousavezprisconnaissanceduposteetquand?
+(annonces,références,suiteàuneentrevuetéléphonique).Indiquezvosmotivationsenversleposteetl’entreprise.
+
+    Créer un compte Github
+    Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
 Conclusion 
 
     Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
