@@ -37,6 +37,13 @@ intro 10
     Ajouter un fichier au projet et pousser votre modification
     Créer une nouvelle branche et faire une modification au fichier README.md dans cette nouvelle branche
    
+   intro 11
+    Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
+    Créer un compte Github
+    Cloner le projet test (https://github.com/UQO-2019-INF1583/TDGit.git) sur votre poste de travail
+    Effectuez les opérations suivantes :
+    Ajouter un fichier au projet et pousser votre modification
+    Créer une nouvelle branche et faire une modification au fichier README.md dans cette nouvelle branche
 
     Créer un compte Github
     Télécharger Git (et un outil de votre choix pour effectuer les différentes opérations tel que Sourcetree ou GitKraken)
